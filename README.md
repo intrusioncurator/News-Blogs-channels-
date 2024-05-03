@@ -1,6 +1,12 @@
 # News-Blogs-channels-news letters
 I've gathered the leading OSINT resources.
 
+The resources are:
+
+- Deeply insightful
+- Made by experts
+- Tailored to different levels
+
 Youtube channels :-
 
 1. David Bombal
