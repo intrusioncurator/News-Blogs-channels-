@@ -1,4 +1,4 @@
-# News-Blogs-channels-
+# News-Blogs-channels-news letters
 I've gathered the leading OSINT resources.
 
 Youtube channels :-
