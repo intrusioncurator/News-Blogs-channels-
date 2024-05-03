@@ -76,3 +76,5 @@ Books :-
 6. How to Find Out Anything - Don MacLeod
 7. Operator Handbook - Joshua Picolet
 8. OSINT: The Art of Collecting Open Information - David Anderson
+
+![image](https://github.com/intrusioncurator/News-Blogs-channels-/assets/168323286/722507b7-56b7-44a3-aea6-894eff45544c)
